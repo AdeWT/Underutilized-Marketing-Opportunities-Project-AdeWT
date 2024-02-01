@@ -1,4 +1,4 @@
-# Underutilized Marketing Opportunity Exploration Project
+# Underutilized Marketing Opportunities Exploration Project
 A data pipeline, validation, NoSQL, and data visualization project by Ade William Tabrani.
 ---
 
